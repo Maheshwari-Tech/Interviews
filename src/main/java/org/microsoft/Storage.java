@@ -1,4 +1,4 @@
-package org.example;
+package org.microsoft;
 
 public interface Storage {
     void addMessage(Message message, int partition_id);

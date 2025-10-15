@@ -1,4 +1,4 @@
-package org.example;
+package org.microsoft;
 
 import java.util.HashMap;
 import java.util.Map;

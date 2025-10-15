@@ -1,4 +1,4 @@
-package org.example;
+package org.microsoft;
 
 public class ConsumerImpl implements Consumer {
 
